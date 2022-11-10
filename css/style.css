@@ -1,0 +1,28 @@
+/* nagłowek */
+h1 {
+   
+    color: #ff0000;
+    font-size: 80px;
+}
+
+/* paragraf1 */
+#first {
+    color: #a42423;
+   
+    font-size: 30px;
+}
+
+/* paragraf 2 */
+#second{
+    color: #00008f;
+    
+    font-size: larger;
+}
+
+/* background */
+#main {
+    background-color: #faebd6;
+}
+span {
+    color: rgb(81, 28, 79);
+}
